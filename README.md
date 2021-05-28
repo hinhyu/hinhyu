@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header)
 
 <div align='center'>
+  
   ### Technology Stack
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
