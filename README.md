@@ -26,4 +26,5 @@
   ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
   ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
   ![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10)
+  <br><br>
 </div>
