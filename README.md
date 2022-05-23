@@ -36,7 +36,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinhyu&show_icons=true&hide=contribs)
   <br>
   
-  ### About Me!
+  ### About Me
   
   <img src="https://camo.githubusercontent.com/109ca82a6e688fd319b6feb6edb8ded96c7fed42f703bcb2786d90205b468831/687474703a2f2f69732e616d2f35796739"/>
   <a href="https://velog.io/@ong_hh"><img src="https://img.shields.io/badge/velog-1DBF73?style=for-the-badge&logo=Vimeo&logoColor=white"/></a><br>
