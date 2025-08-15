@@ -26,7 +26,7 @@
   <br>
   Full Stack Developer(2022.6 ~ ing)<br> 
   <br>
-  <strong>Training Courses</strong>
+  <strong>ETC</strong>
   <br>
   멋쟁이사자처럼(2020 ~ 2022) <br>
   우아한테크러닝 4기　2021.06-07 <br>
